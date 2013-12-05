@@ -82,6 +82,9 @@ public class MyActivity extends Activity implements View.OnClickListener {
 
     private void startGame(int i){
         Log.d(TAG, "clicked on" + i);
+        Intent intent = new Intent(MyActivity.this, Game.class);
+        intent.putExtra(Game.KEY_DIFFICULTY, i);
+        startActivity(intent);
     }
 
 }

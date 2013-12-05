@@ -20,5 +20,8 @@
                   android:theme="@android:style/Theme.Dialog"/>
         <activity android:name=".Settings"
                   android:label="@string/settings_label"/>
+        <activity android:name=".Game"
+                android:label="@string/game_title"/>
+        <activity android:name=".PuzzleView"/>
     </application>
 </manifest>
