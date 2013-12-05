@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SudoKu</string>
+
+    <!-- main -->
+    <string name="index_title">Android Sudoku</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+
+    <!-- about -->
+    <string name="about_title">About Sudoku</string>
+    <string name="about_text">\
+        在Android中使用Intent在两个Activity间传递数据时，只能是基本类型数据，或者是序列化对象。Intent是一种基于
+        消息的进程内和进程间通信模型，当我们需要在我们应用程序内部，多个Activity间进行复杂数据对象共享交互时，使用
+        Intent就显得很不方便。此时，我们就需要一种数据共享的机制来实现。当然，直接使用java语言中的静态变量是可以的，
+        但在Android中有更为优雅的实现方式。
+        在Android中使用Intent在两个Activity间传递数据时，只能是基本类型数据，或者是序列化对象。Intent是一种基于
+        消息的进程内和进程间通信模型，当我们需要在我们应用程序内部，多个Activity间进行复杂数据对象共享交互时，使用
+        Intent就显得很不方便。此时，我们就需要一种数据共享的机制来实现。当然，直接使用java语言中的静态变量是可以的，
+        但在Android中有更为优雅的实现方式。</string>
+
+    <!--menu-->
+    <string name="settings_label">Settings...</string>
+    <string name="settings_title">Sudoku Settings</string>
+    <string name="settings_shortcut">S</string>
+    <string name="music_title">Music</string>
+    <string name="music_summary">Play background music</string>
+    <string name="hints_title">Hints</string>
+    <string name="hints_summary">Show hints during play</string>
+
+    <!--new game dialog-->
+    <string name="new_game_title">Difficulty</string>
+    <string name="easy_label">Easy</string>
+</resources>
