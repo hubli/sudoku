@@ -1,0 +1,8 @@
+*.swp
+# temp file #
+*.log
+*.cmm
+*.ini
+*.cmp
+*.tmp
+
