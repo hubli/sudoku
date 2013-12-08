@@ -1,0 +1,91 @@
+[33mcommit 695a3befcfd4c61dce0b009360026bc8fb0c9782[m
+Merge: 0b624a3 0c88245
+Author: lirunzi <lirunzi@163.com>
+Date:   Sun Dec 8 09:10:26 2013 +0800
+
+    Merge branch 'master' of github.com:hubli/sudoku
+
+[33mcommit 0c882456a9c33a8ba0b608d724bccaa83a40452c[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 17:56:16 2013 +0800
+
+    no complate
+
+[33mcommit 1cfcf60f5e409b40d9fa98c0d19298d971eeb5b4[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 14:52:46 2013 +0800
+
+    new game
+
+[33mcommit 58e91c1510c1068c42f4bbcb2ba39e7d0beedda4[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 10:40:15 2013 +0800
+
+    modify .gitignore file
+
+[33mcommit b91dceb2bdb879a44e7f270dc9c63f7d50b3bbc3[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 10:31:40 2013 +0800
+
+    dele errors file
+
+[33mcommit beb0499c278b644d1b5ed5dd11c06fd47032032a[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 10:27:19 2013 +0800
+
+    create project
+
+[33mcommit 5f2b1cd919bef11e17903b8ed316d8bc19c1efff[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 09:59:22 2013 +0800
+
+    Update README.md
+
+[33mcommit 6c5450759ab3513109397383b4b925860f4c1f02[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 09:47:46 2013 +0800
+
+    Update README.md
+
+[33mcommit 8b47a0de1845b21ebde75279ad06dd82a33f41fa[m
+Author: lirunzi <lirunzi@gmail.com>
+Date:   Thu Dec 5 09:48:58 2013 +0800
+
+    edit
+
+[33mcommit 0b624a3f35f33d79f424a957e68784878fd9d975[m
+Author: lirunzi <lirunzi@163.com>
+Date:   Thu Dec 5 02:27:54 2013 +0800
+
+    test
+
+[33mcommit 721dbb66c27764f7c040f46c7c8381440836efd3[m
+Author: lirunzi <lirunzi@163.com>
+Date:   Thu Dec 5 02:22:16 2013 +0800
+
+    dele files
+
+[33mcommit 8bf1a3d012ef2b8efec58e6686080408e70fe8e0[m
+Merge: f3ea502 fad825a
+Author: lirunzi <lirunzi@163.com>
+Date:   Thu Dec 5 01:12:14 2013 +0800
+
+    Merge branch 'experimental'
+
+[33mcommit f3ea50282b161308a1fe89f08901be7e8c1075a5[m
+Author: lirunzi <lirunzi@163.com>
+Date:   Thu Dec 5 01:11:37 2013 +0800
+
+    test branch
+
+[33mcommit fad825a0802e44562397a8abc97753237d05e61b[m
+Author: lirunzi <lirunzi@163.com>
+Date:   Thu Dec 5 01:07:57 2013 +0800
+
+    branch test
+
+[33mcommit 516ab35024fc349af6b1d79b888963a70f864112[m
+Author: lirunzi <lirunzi@163.com>
+Date:   Wed Dec 4 23:09:40 2013 +0800
+
+    commit test
